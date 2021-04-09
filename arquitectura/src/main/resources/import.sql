@@ -1,0 +1,2 @@
+insert into cliente (id, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, identificacion, correo_electronico)values(sec_cliente.nextval,'Andres','Felipe','Alfonso','Ortiz','111111','a@gmail.com');
+insert into cliente (id, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, identificacion, correo_electronico)values(sec_cliente.nextval,'Johana','Lorena','Marquez','Torres','121212','b@gmail.com');
